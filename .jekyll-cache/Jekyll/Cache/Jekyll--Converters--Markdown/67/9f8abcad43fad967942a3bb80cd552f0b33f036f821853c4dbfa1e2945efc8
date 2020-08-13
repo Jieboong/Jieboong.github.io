@@ -1,0 +1,38 @@
+I"Ù<section class="hero is-primary is-small">
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <p class="title is-1">
+                BlogFolio
+            </p>
+            <p class="subtitle is-4">
+                <em>Boolean is a Utopia</em>
+            </p>
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="columns">
+            <div class="column is-half is-offset-one-quarter">
+
+                
+                <div class="box">
+                    <article class="media">
+                        <div class="media-content">
+                            <div class="content">
+                                <a href="/2017/06/10/first-post/">
+                                    <p class="title is-2">Hello World! <span class="tag is-white is-pulled-right"><small>June 10, 2017</small></span></p>
+                                    <p class="subtitle"><small>Hey, itâ€™s just my first post!
+</small></p>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                
+
+            </div>
+        </div>
+    </div>
+</section>
+:ET

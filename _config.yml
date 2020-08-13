@@ -1,0 +1,16 @@
+# Site settings
+name: Jxxh
+email: jieboong82@daum.net
+url: "localhost:4000"
+description: "A blog and a portfolio"
+author: "Jieboong"
+title: "BlogFolio"
+permalink: pretty
+baseurl: ""
+
+# social
+github:
+  username: Jieboong
+
+twitter:
+  username: username
